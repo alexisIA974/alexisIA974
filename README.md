@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Alexis
 
-A developer passionate about Artificial Intelligence, automation, and building projects from the ground up.
+Passionate about Artificial Intelligence, automation, and building projects from the ground up.
 
 I enjoy learning new technologies, experimenting with new ideas, and turning concepts into real-world applications.
 
